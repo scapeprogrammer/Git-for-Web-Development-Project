@@ -1,0 +1,11 @@
+https://codepen.io/scapeprogrammer/pen/VwmpZeq?editors=1100
+
+1.What does the ls command do in the terminal?
+list the contents of the current directory
+2.How do you create a new branch with git?
+git checkout -b
+3.What does the git add command do?
+Adds files to the staging area (aka index) to be committed
+4.What does a pull request do?
+lets you review differences between branches
+
